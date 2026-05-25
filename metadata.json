@@ -1,0 +1,6 @@
+{
+  "name": "Gamified HRMS & Rewards Marketplace",
+  "description": "A modern full-stack SaaS platform combining gamification, core HRMS modules, learning paths, brand vouchers, and AI-powered employee insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
